@@ -1,0 +1,12 @@
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/bin/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.deps.json
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/bin/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.dll
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/bin/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.pdb
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.AssemblyInfoInputs.cache
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.AssemblyInfo.cs
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.csproj.CoreCompileInputs.cache
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.sourcelink.json
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.dll
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/refint/Zuplae.Aulas.Atv0012.Models.dll
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.pdb
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/Debug/net8.0/ref/Zuplae.Aulas.Atv0012.Models.dll

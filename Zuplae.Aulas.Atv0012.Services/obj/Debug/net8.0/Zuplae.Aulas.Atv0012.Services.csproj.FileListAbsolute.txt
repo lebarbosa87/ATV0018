@@ -1,0 +1,16 @@
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/bin/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.deps.json
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/bin/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.dll
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/bin/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.pdb
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/bin/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.dll
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/bin/Debug/net8.0/Zuplae.Aulas.Atv0012.Models.pdb
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.csproj.AssemblyReference.cache
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.AssemblyInfoInputs.cache
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.AssemblyInfo.cs
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.csproj.CoreCompileInputs.cache
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.sourcelink.json
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.A.060E9B77.Up2Date
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.dll
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/refint/Zuplae.Aulas.Atv0012.Services.dll
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/Zuplae.Aulas.Atv0012.Services.pdb
+/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/obj/Debug/net8.0/ref/Zuplae.Aulas.Atv0012.Services.dll
