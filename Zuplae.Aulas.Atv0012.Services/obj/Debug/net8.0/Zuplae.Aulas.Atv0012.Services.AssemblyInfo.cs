@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zuplae.Aulas.Atv0012.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a357289692420b546a450418c0d6b96ca0111d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eebb8890e2f459dd1155e108c563866cc95d986")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zuplae.Aulas.Atv0012.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zuplae.Aulas.Atv0012.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

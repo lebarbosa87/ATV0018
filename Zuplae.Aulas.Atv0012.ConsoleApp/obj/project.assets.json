@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.ConsoleApp/Zuplae.Aulas.Atv0012.ConsoleApp.csproj",
+      "projectUniqueName": "/Users/leandrobarbosa/Desktop/Zuplae/ATV0018/Zuplae.Aulas.Atv0012.ConsoleApp/Zuplae.Aulas.Atv0012.ConsoleApp.csproj",
       "projectName": "Zuplae.Aulas.Atv0012.ConsoleApp",
-      "projectPath": "/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.ConsoleApp/Zuplae.Aulas.Atv0012.ConsoleApp.csproj",
+      "projectPath": "/Users/leandrobarbosa/Desktop/Zuplae/ATV0018/Zuplae.Aulas.Atv0012.ConsoleApp/Zuplae.Aulas.Atv0012.ConsoleApp.csproj",
       "packagesPath": "/Users/leandrobarbosa/.nuget/packages/",
-      "outputPath": "/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.ConsoleApp/obj/",
+      "outputPath": "/Users/leandrobarbosa/Desktop/Zuplae/ATV0018/Zuplae.Aulas.Atv0012.ConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leandrobarbosa/.nuget/NuGet/NuGet.Config"
@@ -69,8 +69,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/Zuplae.Aulas.Atv0012.Services.csproj": {
-              "projectPath": "/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Services/Zuplae.Aulas.Atv0012.Services.csproj"
+            "/Users/leandrobarbosa/Desktop/Zuplae/ATV0018/Zuplae.Aulas.Atv0012.Services/Zuplae.Aulas.Atv0012.Services.csproj": {
+              "projectPath": "/Users/leandrobarbosa/Desktop/Zuplae/ATV0018/Zuplae.Aulas.Atv0012.Services/Zuplae.Aulas.Atv0012.Services.csproj"
             }
           }
         }

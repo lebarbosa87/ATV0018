@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/Zuplae.Aulas.Atv0012.Models.csproj",
+      "projectUniqueName": "/Users/leandrobarbosa/Desktop/Zuplae/ATV0018/Zuplae.Aulas.Atv0012.Models/Zuplae.Aulas.Atv0012.Models.csproj",
       "projectName": "Zuplae.Aulas.Atv0012.Models",
-      "projectPath": "/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/Zuplae.Aulas.Atv0012.Models.csproj",
+      "projectPath": "/Users/leandrobarbosa/Desktop/Zuplae/ATV0018/Zuplae.Aulas.Atv0012.Models/Zuplae.Aulas.Atv0012.Models.csproj",
       "packagesPath": "/Users/leandrobarbosa/.nuget/packages/",
-      "outputPath": "/Users/leandrobarbosa/Desktop/Zuplae/Atv0012/Zuplae.Aulas.Atv0012/Zuplae.Aulas.Atv0012.Models/obj/",
+      "outputPath": "/Users/leandrobarbosa/Desktop/Zuplae/ATV0018/Zuplae.Aulas.Atv0012.Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leandrobarbosa/.nuget/NuGet/NuGet.Config"
